@@ -9,8 +9,7 @@
 # https://app.hackthebox.com/machines/Soulmate
 
 # Deliverable2:
-
-![Screenshot 2026-02-05 140218.png](/image/attachment:6c4607fd-b968-4ba7-93a1-b881d501cb02:Screenshot_2026-02-05_140218.png)
+![Screenshot 2026-02-05 140218.png](image/Screenshot_2026-02-05_140218.png)
 
 ---
 
